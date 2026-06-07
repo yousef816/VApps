@@ -1,0 +1,6 @@
+{
+  "name": "المسجل السريع",
+  "description": "تطبيق مسجل صوتي كلاسيكي بسيط وسريع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
